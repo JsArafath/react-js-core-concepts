@@ -1,5 +1,5 @@
 # Clone this repository
-$ git clone https://github.com/JsArafath/firebase-authentication.git
+$ git clone https://github.com/JsArafath/react-js-core-concepts.git
 
 # Go into the repository
 $ cd firebase-authentication
